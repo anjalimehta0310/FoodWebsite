@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import InstamartCart from './InstamartCart';
-import { filterProductData } from '../Utilis/Helper';
+import { filterProductData } from '../Utilis/helper';
 
 const Instamart = () => {
   const [searchText, setSearchText] = useState("");

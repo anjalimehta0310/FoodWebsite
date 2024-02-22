@@ -3,7 +3,7 @@ import {resturanList} from "../constant"
 import ResturantCard from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
-import { filterData } from "../Utilis/Helper";
+import { filterData } from "../Utilis/helper";
 import useOnline from "../Utilis/useOnline";
 
 
